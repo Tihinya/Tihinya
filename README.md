@@ -1,6 +1,6 @@
-# 🌿 About Me <img align="right" src="./cool-fun.gif">
+# 🌿 About Me 
 
-Hi, I’m `Stepan Tikhinya` 👨‍💻, a software developer. I live by 💡 two simple rules . 
+Hi, I’m `Stepan Tikhinya` 👨‍💻, a software developer. I live by 💡 two simple rules.  <img align="right" src="./small-dancing-white-cat-dance-funny.gif">
 
  1. Always have fun whatever you do 🎉.
 
