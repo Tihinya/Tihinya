@@ -1,12 +1,12 @@
 # 🌿 About Me 
+<img align="right" src="./small-dancing-white-cat-dance-funny.gif">
 
-Hi, I’m `Stepan Tikhinya` 👨‍💻, a software developer. I live by 💡 two simple rules.  <img align="right" src="./small-dancing-white-cat-dance-funny.gif">
+👋 Hi there! I'm Stepan Tikhinya `DevOps Engineer & Software Engineer`
 
- 1. Always have fun whatever you do 🎉.
+💡 I'm passionate about building efficient, robust systems that power online services for medium to large-scale companies.
 
- 2. Listen to  to rule #1 🔁.
+🔍 Always looking for new challenges in system design and optimization. Let's collaborate and build something amazing!
 
-If you want to know more about me, feel free check out my LinkedIn below 🔗:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/stepan-tikhinya-970b17247) 
 
