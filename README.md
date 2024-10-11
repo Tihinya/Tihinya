@@ -8,7 +8,7 @@
 🔍 Always looking for new challenges in system design and optimization. Let's collaborate and build something amazing!
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/stepan-tikhinya-970b17247) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stepan-tikhinya-970b17247/) 
 
 
 ---
