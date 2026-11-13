@@ -1,11 +1,13 @@
 # 🌿 About Me 
 <img align="right" src="./small-dancing-white-cat-dance-funny.gif">
 
-Hi there! I'm Stepan Tikhinya `DevOps Engineer & Software Engineer`
+Hi there! I'm Stepan Tikhinya `System Administration & Full-Stack Developer & DevOps Engineer`
 
-I'm passionate about building efficient, robust systems that power online services for medium to large-scale companies.
+I am passionate about building, maintaining, and automating reliable IT infrastructure.
 
-Always looking for new challenges in system design and optimization. Let's collaborate and build something amazing!
+I enjoy working with Linux and Windows environments, system administration, networking, infrastructure automation, and troubleshooting.
+
+I am constantly expanding my knowledge of DevOps practices, cloud technologies, and infrastructure management.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stepan-tikhinya-970b17247/) 
